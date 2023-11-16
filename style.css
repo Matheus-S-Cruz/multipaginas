@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+
+h1 {
+    font-display: engraved;
+    font-size: 60px;
+}
+
+button {
+    background-color: black;
+    color:white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 50;
+    height: 50px;
+    padding: 50;
+}
